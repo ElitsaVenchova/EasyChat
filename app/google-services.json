@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "475200117149",
+    "firebase_url": "https://easychat-47a72.firebaseio.com",
+    "project_id": "easychat-47a72",
+    "storage_bucket": "easychat-47a72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475200117149:android:0ff922b8256030a8",
+        "android_client_info": {
+          "package_name": "bg.unisofia.fmi.easychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475200117149-hgkn5dtgu68iparvikdhn3tqthr8fg82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bg.unisofia.fmi.easychat",
+            "certificate_hash": "396cbcf961b1e14e0fc389f14df4094fb8c78b0d"
+          }
+        },
+        {
+          "client_id": "475200117149-bb21f0mi4s8m9rl1ohgaq958ktbc84oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwrjwBTZC2PFqVuN1DjSiVbg9gIzoZ8xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475200117149-bb21f0mi4s8m9rl1ohgaq958ktbc84oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
